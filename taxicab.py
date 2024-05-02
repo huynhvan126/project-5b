@@ -15,7 +15,7 @@ class Taxicab:
     def get_y_coord(self):
         """Return the y coordinate of the taxicab."""
         return self._y_coord
-    def get_odormeter(self):
+    def get_odometer(self):
         """Return the odometer of the taxicab."""
         return self._odometer
     def move_x(self, distance):
